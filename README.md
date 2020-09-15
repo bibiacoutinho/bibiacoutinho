@@ -1,7 +1,4 @@
-### Hello 👋
-
-
-
+### Hello! I'm Beatriz 👋
 
 [![LinkedIn Badge](https://img.shields.io/badge/bibiacoutinho-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bibiacoutinho/)](https://www.linkedin.com/in/bibiacoutinho/)
 [![Email Badge](https://img.shields.io/badge/contact-beatrizmcout@gmail.com-red?style=for-the-badge&link=https://www.linkedin.com/in/bibiacoutinho/)](https://www.linkedin.com/in/bibiacoutinho/)
